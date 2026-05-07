@@ -6,18 +6,19 @@ This course takes a software engineer from embedded zero to confident LilyGO T-E
 
 - **Bruce Operator:** Learn the installed firmware, safe workflows, and practical feature use.
 - **Builder Lab:** Learn embedded development and build custom tools in isolated firmware workspaces.
+- **Productivity Toolkit:** Build daily utility workflows for capture, timers, dashboards, and personal automations.
 
 ## Levels
 
 | Level | Name | Main Outcome |
 | --- | --- | --- |
-| 0 | Unbox and Understand | Explain the board, safety model, and current firmware state. |
-| 1 | Operate Bruce Well | Use Bruce confidently without changing firmware. |
-| 2 | Embedded Foundations | Build and debug small ESP32-S3 programs with PlatformIO. |
-| 3 | Productivity Toolkit | Build personal tools such as timers, quick capture, dashboards, and automations. |
-| 4 | Protocol Literacy | Understand NFC, IR, BLE, Wi-Fi, CC1101, and nRF24 within authorized labs. |
-| 5 | Bruce Internals | Build Bruce from source and add a small custom behavior. |
-| 6 | Capstones | Deliver advanced productivity and authorized security workflows. |
+| 0 | [Unbox and Understand](00-unbox-and-understand/README.md) | Explain the board, safety model, and current firmware state. |
+| 1 | [Operate Bruce Well](01-operate-bruce-well/README.md) | Use Bruce confidently without changing firmware. |
+| 2 | [Embedded Foundations](02-embedded-foundations/README.md) | Build and debug small ESP32-S3 programs with PlatformIO. |
+| 3 | [Productivity Toolkit](03-productivity-toolkit/README.md) | Build personal tools such as timers, quick capture, dashboards, and automations. |
+| 4 | [Protocol Literacy](04-protocol-literacy/README.md) | Understand NFC, IR, BLE, Wi-Fi, CC1101, and nRF24 within authorized labs. |
+| 5 | [Bruce Internals](05-bruce-internals/README.md) | Build Bruce from source and add a small custom behavior. |
+| 6 | [Capstones](06-capstones/README.md) | Deliver advanced productivity and authorized security workflows. |
 
 ## Suggested Rhythm
 
