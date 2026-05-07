@@ -24,11 +24,13 @@ This course takes a software engineer from embedded zero to confident LilyGO T-E
 
 For each lesson:
 
-1. Read the concept section.
-2. Run the lab on owned or authorized equipment.
-3. Capture evidence in `notes/learning-log.md`.
-4. Complete the done-when checks.
-5. Try the mastery extension only after the baseline works.
+1. Start a `$lilygo-study-session` or read the concept section.
+2. Use retrieval practice to explain the idea without notes.
+3. Run the lab on owned or authorized equipment with `$lilygo-lab-coach`.
+4. Capture evidence in `notes/learning-log.md` when useful.
+5. Complete the done-when checks.
+6. Use `$lilygo-progress-review` before moving to a harder level.
+7. Try the mastery extension only after the baseline works.
 
 ## Milestones
 

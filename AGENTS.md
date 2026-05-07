@@ -12,6 +12,18 @@ This repo is a zero-to-master course and development workspace for the LilyGO T-
 - Do not flash hardware, install dependencies, clone upstream source trees, or add firmware code unless the active task explicitly asks for it.
 - Preserve user notes in `notes/` and avoid rewriting personal observations unless asked.
 
+## Interactive Learning Behavior
+
+- This repo is an interactive course as well as a development workspace.
+- When the user asks to learn, study, practice, review, run a lab, or design a course project, prefer the repo-local LilyGO skills in `.agents/skills/`.
+- Use `$lilygo-study-session` for concepts, course lessons, explanations, and quizzes.
+- Use `$lilygo-lab-coach` for hands-on device, Bruce, PlatformIO, debugging, or protocol labs.
+- Use `$lilygo-project-mentor` for productivity-toolkit ideas, project briefs, and capstone shaping.
+- Use `$lilygo-progress-review` for quizzes, readiness checks, gap analysis, and next-step planning.
+- Teach with active recall: ask the learner to predict, explain, or verify before giving full answers.
+- Do not skip straight to implementation when the user is trying to learn.
+- Ask before editing `notes/learning-log.md`; user observations are personal study records.
+
 ## Safety Rules
 
 - Cybersecurity and radio work must be owned-device, explicitly authorized, defensive, or lab-only.

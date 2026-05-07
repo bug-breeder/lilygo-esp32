@@ -23,6 +23,17 @@ The course has two connected tracks:
 - **Bruce Operator:** Learn the installed firmware first so the device stays useful while you build confidence.
 - **Builder Lab:** Learn embedded development in a clean sandbox before modifying Bruce or building custom tools.
 
+## Interactive Learning With Codex
+
+This repo includes repo-local Codex skills for active learning:
+
+- `$lilygo-study-session` for lessons, explanations, and retrieval quizzes.
+- `$lilygo-lab-coach` for safe hands-on labs and debugging.
+- `$lilygo-project-mentor` for productivity-toolkit and capstone project design.
+- `$lilygo-progress-review` for readiness checks and next-step planning.
+
+You can invoke a skill directly or ask naturally, such as "teach me the next lesson" or "review my progress." Start with `docs/interactive/skill-usage.md`.
+
 ## Zero-to-Master Path
 
 1. **Unbox and Understand:** Board anatomy, safety, Bruce overview, and learning log.
