@@ -25,7 +25,7 @@ What should be clearer or more usable by the end of this session?
 
 ## Key Ideas
 
-- 
+-
 
 ## Retrieval Practice
 

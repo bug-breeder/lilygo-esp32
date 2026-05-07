@@ -30,11 +30,11 @@ Where is the learner in the zero-to-master path?
 
 ## Strengths
 
-- 
+-
 
 ## Gaps
 
-- 
+-
 
 ## Safety Readiness
 
