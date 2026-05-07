@@ -34,7 +34,7 @@ Use this skill to transform the learner's real-life workflows into practical Lil
    - Custom PlatformIO firmware.
    - Host-side helper script.
    - Documentation-only workflow.
-6. Draft a project brief with scope, architecture, data flow, milestones, done criteria, and verification.
+6. Draft a project brief with scope, architecture, data flow, storage/config decisions, milestones, test plan, done criteria, rollback/cleanup notes, and verification.
 7. Identify course concepts practiced by the project.
 8. If the project touches cybersecurity or wireless behavior, add authorization and safety constraints.
 
@@ -57,8 +57,11 @@ Produce:
 - Implementation lane.
 - Architecture.
 - Data flow.
+- Storage/config decisions.
 - Course concepts practiced.
 - Milestones.
+- Test plan.
 - Done-when checks.
+- Rollback/cleanup notes.
 - Risks and safety notes.
 - Next action.
