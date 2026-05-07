@@ -15,7 +15,7 @@ This repo is a zero-to-master course and development workspace for the LilyGO T-
 ## Interactive Learning Behavior
 
 - This repo is an interactive course as well as a development workspace.
-- When the user asks to learn, study, practice, review, run a lab, or design a course project, prefer the repo-local LilyGO skills in `.agents/skills/`.
+- When the user asks to learn, study, practice, review learning progress, check readiness, run a lab, or design a course project, prefer the repo-local LilyGO skills in `.agents/skills/`.
 - Use `$lilygo-study-session` for concepts, course lessons, explanations, and quizzes.
 - Use `$lilygo-lab-coach` for hands-on device, Bruce, PlatformIO, debugging, or protocol labs.
 - Use `$lilygo-project-mentor` for productivity-toolkit ideas, project briefs, and capstone shaping.
